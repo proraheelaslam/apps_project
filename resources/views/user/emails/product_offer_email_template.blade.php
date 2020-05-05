@@ -1,0 +1,3 @@
+<p>
+    {!! @$mailData['content'] !!}
+</p>

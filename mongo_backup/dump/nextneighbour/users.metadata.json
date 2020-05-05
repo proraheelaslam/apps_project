@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"nextneighbour.users"},{"v":2,"unique":true,"key":{"user_email":1},"name":"user_email_1","ns":"nextneighbour.users"}],"uuid":"94584f02f4be4c5cb27c169b8cbb98e7"}

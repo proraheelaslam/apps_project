@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"nextneighbour.oauth_refresh_tokens"},{"v":2,"unique":true,"key":{"id":1},"name":"id_1","ns":"nextneighbour.oauth_refresh_tokens"},{"v":2,"key":{"access_token_id":1},"name":"access_token_id_1","ns":"nextneighbour.oauth_refresh_tokens"}],"uuid":"331ffa78e7534e6db04125889154a3c9"}

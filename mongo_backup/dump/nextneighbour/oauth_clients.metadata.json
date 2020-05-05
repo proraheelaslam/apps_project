@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"nextneighbour.oauth_clients"},{"v":2,"key":{"user_id":1},"name":"user_id_1","ns":"nextneighbour.oauth_clients"}],"uuid":"eb642f6eec894cc1a285c84c8e052962"}

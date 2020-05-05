@@ -1,0 +1,1 @@
+<p>{{@$mailData['desc']}}</p>

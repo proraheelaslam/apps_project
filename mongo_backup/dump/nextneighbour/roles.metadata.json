@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"nextneighbour.roles"},{"v":2,"unique":true,"key":{"name":1,"guard_name":1},"name":"name_1_guard_name_1","ns":"nextneighbour.roles"}],"uuid":"ec13d24228fd40c6844bf84e0adda6b4"}
